@@ -1,0 +1,11 @@
+*.egg-info
+*.h
+*.pyc
+*.so
+/.pytest_cache
+/.coverage
+/.eggs
+/.tox
+/.venv.touch
+/dist
+/venv-*
